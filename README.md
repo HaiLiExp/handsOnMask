@@ -1,4 +1,6 @@
 # handsOnMask
+version V0.1
+This version is primitive, it can detect faces and classify faces as with or without a mask.
 
 FaceMask.ipynb
 This code is to train the model to differentiate between a face with a mask and a face without a mask.
